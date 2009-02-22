@@ -4,12 +4,12 @@
     Plugin URI: http://wordpress.org/extend/plugins/wp-to-do/
     Description: A full featured module for creating and management a "to do" list.
     Version: 3.0
-    Author: Stas Sushkov and Levente Varga
+    Author: Stas Sushkov
     Author URI: http://stas.nerd.ro/
 */
 ?>
 <?php
-/*  Copyright 2008  Stas Sushkov, Levente Varga (email: stas@nerd.ro, levi@ramblingbyte.net)
+/*  Copyright 2008  Stas Sushkov (stas@nerd.ro)
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
